@@ -45,4 +45,4 @@ Agradecimentos especiais à equipe:
 
 💬 **Feedback**
 Contribuições e feedbacks são bem-vindos! Responda nosso formulário de satisfação, e ajude o sistema a melhorar!
-[**Formulário**](https://docs.google.com/forms/d/1S-p4sWH6Ss2wT5u9rXxMArEafSwwn-CJbva62jBKaL8/edit).
+-[**Formulário**](https://docs.google.com/forms/d/1S-p4sWH6Ss2wT5u9rXxMArEafSwwn-CJbva62jBKaL8/edit).
